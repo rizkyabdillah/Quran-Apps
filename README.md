@@ -1,5 +1,6 @@
 # Quran-Apps
 =======================
+
 Simple Quran APPS
 Created using MVVM Pattern
 
